@@ -1,0 +1,101 @@
+transaction_id,user_id,amount,location,transaction_type,time,fraud_alert
+1,104,38185,Kenya,withdrawal,2025-12-10 08:55:35,"High Amount, Suspicious Withdrawal"
+2,108,34070,Nigeria,payment,2025-12-10 02:23:35,"High Amount, Foreign Location"
+3,102,99618,Tanzania,transfer,2025-12-10 09:26:35,High Amount
+4,103,21164,USA,withdrawal,2025-12-10 13:34:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+5,108,48811,Tanzania,payment,2025-12-10 12:17:35,High Amount
+6,107,23247,USA,withdrawal,2025-12-10 09:15:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+7,101,27813,Kenya,payment,2025-12-10 16:44:35,High Amount
+8,100,9062,Nigeria,payment,2025-12-10 16:35:35,Foreign Location
+9,100,32770,Nigeria,withdrawal,2025-12-10 03:19:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+10,103,93444,USA,withdrawal,2025-12-10 01:10:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+11,109,13268,Nigeria,payment,2025-12-10 14:28:35,Foreign Location
+12,105,73898,Uganda,transfer,2025-12-10 12:40:35,High Amount
+13,107,66288,Kenya,payment,2025-12-10 07:59:35,High Amount
+14,110,12210,Tanzania,payment,2025-12-10 03:43:35,
+15,107,92032,Kenya,transfer,2025-12-10 12:53:35,High Amount
+16,107,80310,USA,payment,2025-12-10 04:24:35,"High Amount, Foreign Location"
+17,100,64132,Tanzania,transfer,2025-12-10 02:45:35,High Amount
+18,109,68291,Tanzania,withdrawal,2025-12-10 12:10:35,"High Amount, Suspicious Withdrawal"
+19,109,25141,Tanzania,withdrawal,2025-12-10 07:38:35,"High Amount, Suspicious Withdrawal"
+20,108,65615,Tanzania,withdrawal,2025-12-10 04:15:35,"High Amount, Suspicious Withdrawal"
+21,106,81287,Nigeria,payment,2025-12-10 12:27:35,"High Amount, Foreign Location"
+22,107,40798,USA,transfer,2025-12-10 00:44:35,"High Amount, Foreign Location"
+23,104,1320,Uganda,withdrawal,2025-12-10 11:59:35,
+24,102,92807,Uganda,transfer,2025-12-10 07:23:35,High Amount
+25,110,87743,Nigeria,transfer,2025-12-10 01:24:35,"High Amount, Foreign Location"
+26,104,90135,Kenya,withdrawal,2025-12-10 10:57:35,"High Amount, Suspicious Withdrawal"
+27,105,76064,Nigeria,transfer,2025-12-10 01:09:35,"High Amount, Foreign Location"
+28,104,51741,Tanzania,withdrawal,2025-12-10 06:10:35,"High Amount, Suspicious Withdrawal"
+29,105,61147,Kenya,transfer,2025-12-10 08:00:35,High Amount
+30,101,38398,Nigeria,payment,2025-12-10 10:34:35,"High Amount, Foreign Location"
+31,100,39153,Nigeria,payment,2025-12-10 12:29:35,"High Amount, Foreign Location"
+32,105,67160,USA,transfer,2025-12-10 14:02:35,"High Amount, Foreign Location"
+33,105,61219,Nigeria,payment,2025-12-10 01:59:35,"High Amount, Foreign Location"
+34,109,68033,Nigeria,payment,2025-12-10 09:27:35,"High Amount, Foreign Location"
+35,108,4892,Kenya,payment,2025-12-10 07:17:35,
+36,103,13289,Tanzania,withdrawal,2025-12-10 06:41:35,Suspicious Withdrawal
+37,104,67782,Tanzania,transfer,2025-12-10 04:03:35,High Amount
+38,110,61777,Uganda,transfer,2025-12-10 00:45:35,High Amount
+39,108,49072,USA,transfer,2025-12-10 06:46:35,"High Amount, Foreign Location"
+40,102,47102,Tanzania,payment,2025-12-10 01:55:35,High Amount
+41,102,28889,Tanzania,transfer,2025-12-10 15:24:35,High Amount
+42,100,26164,Tanzania,payment,2025-12-10 16:16:35,High Amount
+43,101,96813,USA,withdrawal,2025-12-10 17:03:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+44,107,80651,Tanzania,payment,2025-12-10 13:21:35,High Amount
+45,104,96354,Uganda,payment,2025-12-10 04:52:35,High Amount
+46,103,9998,Tanzania,withdrawal,2025-12-10 04:13:35,
+47,102,35903,USA,payment,2025-12-10 08:10:35,"High Amount, Foreign Location"
+48,109,30151,USA,payment,2025-12-10 13:02:35,"High Amount, Foreign Location"
+49,105,95717,Uganda,withdrawal,2025-12-10 04:00:35,"High Amount, Suspicious Withdrawal"
+50,102,77429,Kenya,transfer,2025-12-10 06:54:35,High Amount
+51,104,17480,Nigeria,transfer,2025-12-10 01:58:35,Foreign Location
+52,100,18457,Tanzania,transfer,2025-12-10 14:17:35,
+53,103,8315,Kenya,transfer,2025-12-10 10:52:35,
+54,107,92073,Tanzania,payment,2025-12-10 12:44:35,High Amount
+55,100,20139,Uganda,transfer,2025-12-10 15:54:35,High Amount
+56,101,38545,Tanzania,payment,2025-12-10 06:10:35,High Amount
+57,110,34727,Uganda,payment,2025-12-10 07:20:35,High Amount
+58,102,704,Uganda,withdrawal,2025-12-10 09:35:35,
+59,107,56805,Tanzania,payment,2025-12-10 08:34:35,High Amount
+60,104,53000,USA,payment,2025-12-10 04:29:35,"High Amount, Foreign Location"
+61,110,56602,Uganda,payment,2025-12-10 02:05:35,High Amount
+62,107,44372,Uganda,transfer,2025-12-10 12:32:35,High Amount
+63,103,60868,USA,payment,2025-12-10 05:11:35,"High Amount, Foreign Location"
+64,102,16734,Kenya,transfer,2025-12-10 09:31:35,
+65,102,88914,USA,payment,2025-12-10 08:40:35,"High Amount, Foreign Location"
+66,109,78231,Tanzania,payment,2025-12-10 17:15:35,High Amount
+67,103,74711,Uganda,payment,2025-12-10 08:55:35,High Amount
+68,103,25762,Tanzania,withdrawal,2025-12-10 06:19:35,"High Amount, Suspicious Withdrawal"
+69,104,45183,Uganda,transfer,2025-12-10 14:26:35,High Amount
+70,109,69327,USA,withdrawal,2025-12-10 16:31:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+71,107,78547,Kenya,payment,2025-12-10 15:28:35,High Amount
+72,101,65243,USA,transfer,2025-12-10 05:13:35,"High Amount, Foreign Location"
+73,107,61851,USA,withdrawal,2025-12-10 15:51:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+74,107,94509,Uganda,transfer,2025-12-10 03:40:35,High Amount
+75,101,20797,Tanzania,payment,2025-12-10 08:24:35,High Amount
+76,104,17057,USA,transfer,2025-12-10 12:50:35,Foreign Location
+77,110,21064,Kenya,transfer,2025-12-10 04:04:35,High Amount
+78,110,472,USA,transfer,2025-12-10 12:37:35,Foreign Location
+79,107,14095,Uganda,withdrawal,2025-12-10 13:55:35,Suspicious Withdrawal
+80,109,10569,Uganda,withdrawal,2025-12-10 11:34:35,Suspicious Withdrawal
+81,109,94598,Uganda,payment,2025-12-10 08:39:35,High Amount
+82,109,55525,Tanzania,payment,2025-12-10 03:18:35,High Amount
+83,109,13350,Nigeria,transfer,2025-12-10 01:52:35,Foreign Location
+84,105,13310,Nigeria,withdrawal,2025-12-10 11:25:35,"Foreign Location, Suspicious Withdrawal"
+85,108,9262,Nigeria,withdrawal,2025-12-10 14:03:35,Foreign Location
+86,107,72074,Kenya,transfer,2025-12-10 02:05:35,High Amount
+87,101,10077,Uganda,payment,2025-12-10 09:03:35,
+88,105,6707,Nigeria,transfer,2025-12-10 08:10:35,Foreign Location
+89,106,96219,Tanzania,payment,2025-12-10 05:32:35,High Amount
+90,102,59327,Uganda,withdrawal,2025-12-10 07:04:35,"High Amount, Suspicious Withdrawal"
+91,107,30758,Nigeria,payment,2025-12-10 06:20:35,"High Amount, Foreign Location"
+92,107,14688,Tanzania,payment,2025-12-10 06:53:35,
+93,106,29948,Nigeria,transfer,2025-12-10 08:07:35,"High Amount, Foreign Location"
+94,100,39468,USA,transfer,2025-12-10 12:14:35,"High Amount, Foreign Location"
+95,103,21223,USA,payment,2025-12-10 04:44:35,"High Amount, Foreign Location"
+96,105,22984,USA,transfer,2025-12-10 12:24:35,"High Amount, Foreign Location"
+97,105,96838,Uganda,transfer,2025-12-10 12:33:35,High Amount
+98,103,87989,Nigeria,payment,2025-12-10 10:45:35,"High Amount, Foreign Location"
+99,103,61773,USA,withdrawal,2025-12-10 04:19:35,"High Amount, Foreign Location, Suspicious Withdrawal"
+100,110,16795,USA,withdrawal,2025-12-10 03:28:35,"Foreign Location, Suspicious Withdrawal"
